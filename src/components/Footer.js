@@ -64,8 +64,8 @@ export default function Footer() {
             <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
             <div className="space-y-2 text-gray-400">
               <p>Karachi, Pakistan</p>
-              <p>+92 300 0000000</p>
-              <p>amanparkash@example.com</p>
+              <p>+92 3394191125</p>
+              <p>amanparkashofficial@gmail.com</p>
             </div>
           </div>
         </div>
